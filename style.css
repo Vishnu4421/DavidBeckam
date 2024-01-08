@@ -1,0 +1,43 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+
+        .header {
+            background-color: #e68181dc;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .content {
+            padding: 20px;
+        }
+
+        .profile-img {
+            display: block;
+            margin: 0 auto;
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+        }
+
+        .profile-info {
+            margin-top: 20px;
+        }
+
+        .name {
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .description {
+            font-size: 16px;
+            margin-top: 20px;
+        }
